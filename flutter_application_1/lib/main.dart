@@ -50,13 +50,33 @@ class Grade extends StatelessWidget {
               letterSpacing: 2.0,
               ),
             ),
+            SizedBox(
+              height: 30.0,
+            ),
+            Text('BBANTO',
+              style: TextStyle(
+                color: Colors.white,
+                letterSpacing: 2.0,
+                fontSize: 28.0,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
 
+            //sizedbox-----------------------------
             SizedBox(
               height: 30.0,
             ),
 
-
-            Text('BBANTO',
+            Text('BBANTO POWER LEVEL',
+            style: TextStyle(
+              color: Colors.white,
+              letterSpacing: 2.0,
+              ),
+            ),
+            SizedBox(
+              height: 30.0,
+            ),
+            Text('14',
               style: TextStyle(
                 color: Colors.white,
                 letterSpacing: 2.0,
